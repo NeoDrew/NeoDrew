@@ -3,7 +3,7 @@
 I'm Andrew/Drew, an aspiring software engineer, problem solver, and AI enthusiast. 
 
 I'm in my penunlimate year at the University of Manchester, actively seeking new oppitunities, everyday!
-
+<hr>
 ### My Socials 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrobertsonamr/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeoDrew)
@@ -20,6 +20,7 @@ I'm in my penunlimate year at the University of Manchester, actively seeking new
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/spudbracketspud/Log-A-Log)
 
+<hr>
 ### Checkout My Recent Hackathon Project! 🌲
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log)](https://github.com/spudbracketspud/Log-A-Log)
 
