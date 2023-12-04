@@ -21,10 +21,7 @@ I'm in my penunlimate year at the University of Manchester, actively seeking new
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/spudbracketspud/Log-A-Log)
 
 ### Checkout My Recent Hackathon Project!
-<br>
-<a href="https://github.com/spudbracketspud/Log-A-Log">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log-v2" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log)](https://github.com/spudbracketspud/Log-A-Log)
 
 <!--
 **NeoDrew/NeoDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
