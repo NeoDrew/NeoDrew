@@ -1,8 +1,8 @@
-## Hi, I'm @NeoDrew👋
+## Hey, I'm Drew 👋
 
-I'm Andrew/Drew, an aspiring software engineer, problem solver, and AI enthusiast. 
+I'm Andrew/Drew, an aspiring software engineer, problem solver, and AI enthusiast.  
 
-I'm in my penunlimate year at the University of Manchester, actively seeking new oppitunities, everyday!
+I'm in my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities, everyday!
 
 <hr> </hr>
 
