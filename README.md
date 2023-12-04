@@ -26,7 +26,7 @@ I'm in my penunlimate year at the University of Manchester, actively seeking new
 <hr>
 
 ### Checkout My Recent Hackathon Project! 🌲
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log)](https://github.com/spudbracketspud/Log-A-Log)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/spudbracketspud/Log-A-Log)
 
 <!--
 **NeoDrew/NeoDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
