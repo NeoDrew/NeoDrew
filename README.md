@@ -21,6 +21,7 @@ I'm in my penunlimate year at the University of Manchester, actively seeking new
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/spudbracketspud/Log-A-Log)
 
 <hr>
+
 ### Checkout My Recent Hackathon Project! 🌲
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log)](https://github.com/spudbracketspud/Log-A-Log)
 
