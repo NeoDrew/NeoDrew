@@ -3,7 +3,9 @@
 I'm Andrew/Drew, an aspiring software engineer, problem solver, and AI enthusiast. 
 
 I'm in my penunlimate year at the University of Manchester, actively seeking new oppitunities, everyday!
+
 <hr>
+
 ### My Socials 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrobertsonamr/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeoDrew)
