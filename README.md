@@ -1,8 +1,10 @@
 ## Hey, I'm Drew 👋
 
-I'm Andrew/Drew, an aspiring software engineer, problem solver, and AI enthusiast.  
+I'm an aspiring software engineer, problem solver, and AI enthusiast.  
 
-I'm in my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities, everyday!
+ 🧑🏻‍🎓 In my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities, everyday!
+
+ 💻 Currently looking into Neural Networks & their applications.
 
 <hr> </hr>
 
