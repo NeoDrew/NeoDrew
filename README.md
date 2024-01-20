@@ -28,9 +28,12 @@ I'm an aspiring software engineer, problem solver, and AI enthusiast.
 
 <hr>
 
-### Checkout My Recent Hackathon Project! 🌲
+### Checkout My Hackathon Project! 🌲
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=spudbracketspud&repo=Log-A-Log&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/spudbracketspud/Log-A-Log)
 
+
+### My Newest ML Project 📖
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NeoDrew&repo=ML-autocomplete&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/NeoDrew/ML-autocomplete)
 <!--
 **NeoDrew/NeoDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
