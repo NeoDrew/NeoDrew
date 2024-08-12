@@ -4,7 +4,7 @@ I'm an aspiring software engineer, problem solver, and AI enthusiast.
 
  🧑🏻‍🎓 In my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities, everyday!
 
- 💻 Currently looking into Neural Networks & their applications.
+ 💻 Currently looking into Spring Boot, Financial Tech & ML Modeling for Finance.
 
  🚀 Next Projects ideas... 
  
@@ -29,6 +29,7 @@ I'm an aspiring software engineer, problem solver, and AI enthusiast.
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/spudbracketspud/Log-A-Log)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NeoDrew/DBMS)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/NeoDrew/dyad)
 
 <hr>
 
