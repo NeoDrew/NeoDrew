@@ -1,14 +1,14 @@
-## Hey, I'm Drew 👋
+## Hi, I'm Drew 👋
 
-I'm an aspiring software engineer, problem solver, and AI enthusiast.  
+I'm a software engineer with a great interest in AI.
 
- 🧑🏻‍🎓 In my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities, everyday!
+ 🧑🏻‍🎓 In my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities.
 
- 💻 Currently looking into Spring Boot, Financial Tech & ML Modeling for Finance.
+ 💻 Currently looking into React, Python, and linear-regression quant models. 
 
  🚀 Next Projects ideas... 
  
- - ML-StockPrediction, Neo (Compiled Prog Lang), Dyad Investing Application...
+ - ML-StockPrediction, Neo (Compiled Prog Lang), Dyad Investing Application, AI-hiring platform...
 
 <hr> </hr>
 
@@ -23,6 +23,7 @@ I'm an aspiring software engineer, problem solver, and AI enthusiast.
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NeoDrew/mandelBrot)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/NeoDrew/progLangAndPara)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/NeoDrew/AIHireMVP.UI)
 
 ### Tools I Use 🛠️
 [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
