@@ -1,10 +1,10 @@
 ## Hi, I'm Drew 👋
 
-I'm a software engineer with a great interest in AI.
+I'm a software engineer.
 
- 🧑🏻‍🎓 In my penunlimate year at the University of Manchester studing Computer Science, actively seeking new oppitunities.
+ 🧑🏻‍🎓 In my final year at the University of Manchester studing Computer Science, actively seeking new oppitunities.
 
- 💻 Currently looking into React, Python, and linear-regression quant models. 
+ 💻 Currently looking into Python, linear-regression quant models, and my final project on Agentic Investment analysis. 
 
  🚀 Next Projects ideas... 
  
