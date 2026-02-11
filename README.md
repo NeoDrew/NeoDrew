@@ -4,7 +4,7 @@ I'm a software engineer.
 
  🧑🏻‍🎓 In my final year at the University of Manchester studing Computer Science, actively seeking new oppitunities.
 
- 💻 Currently looking into Python, linear-regression quant models, and my final project on Agentic Investment analysis. 
+ 💻 Currently looking into something secret.
 
  🚀 Next Projects ideas... 
  
