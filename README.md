@@ -23,7 +23,7 @@
 
 ---
 
-## ╠══ About
+# ╠══ About
 
 🧑🏻‍🎓 Final year **Computer Science** student @ University of Manchester
 💼 Actively seeking new opportunities
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="right">Experience ══╣</h2>
+<h1 align="right">Experience ══╣</h1>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## ╠══ Languages
+# ╠══ Languages
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 </div>
 
-<h2 align="right">Tools ══╣</h2>
+<h1 align="right">Tools ══╣</h1>
 
 <div align="center">
 
@@ -71,11 +71,11 @@
 
 ---
 
-## ╠══ Stats
+# ╠══ Stats
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NeoDrew&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)
+![Contribution Graph](https://ghchart.ssh.surf/00FF41/NeoDrew)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NeoDrew&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
@@ -83,7 +83,7 @@
 
 ---
 
-<h2 align="right">Featured Projects ══╣</h2>
+<h1 align="right">Featured Projects ══╣</h1>
 
 <div align="center">
 
