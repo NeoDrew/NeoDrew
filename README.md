@@ -16,15 +16,14 @@
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90%20drew.cash-000000?style=for-the-badge&labelColor=111111)](https://drew.cash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrobertsonamr/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeoDrew)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NeoDrewX)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/256852420439572480)
 
 </div>
 
 ---
 
-```
-> whoami
-```
+## About
 
 🧑🏻‍🎓 Final year **Computer Science** student @ University of Manchester
 💼 Actively seeking new opportunities
@@ -34,9 +33,22 @@
 
 ---
 
+## Experience
+
 <div align="center">
 
-### `> ls ./languages`
+[![TheTradeDesk](https://img.shields.io/badge/The%20Trade%20Desk-0070F3?style=for-the-badge&logoColor=white)](https://www.thetradedesk.com)
+[![Rothschild](https://img.shields.io/badge/Rothschild%20%26%20Co-8B0000?style=for-the-badge&logoColor=white)](https://www.rothschildandco.com)
+[![Record](https://img.shields.io/badge/Record%20Asset%20Management-003366?style=for-the-badge&logoColor=white)](https://www.recordfg.com)
+[![DataAnnotation](https://img.shields.io/badge/DataAnnotation-00897B?style=for-the-badge&logoColor=white)](https://www.dataannotation.tech)
+
+</div>
+
+---
+
+## Languages
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/NeoDrew/tuneInLocal)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NeoDrew/mandelBrot)
@@ -44,7 +56,11 @@
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/NeoDrew/AIHireMVP.UI)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
 
-### `> ls ./tools`
+</div>
+
+## Tools
+
+<div align="center">
 
 [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NeoDrew/DBMS)
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/NeoDrew/dyad)
@@ -55,9 +71,9 @@
 
 ---
 
-<div align="center">
+## Stats
 
-### `> cat ./stats`
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeoDrew&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
 &nbsp;
@@ -69,31 +85,33 @@
 
 ---
 
-<div align="center">
+## Featured Projects
 
-### `> ls ./projects --featured`
+<div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
       <h3>🏆 ICHack — 1st Place Winner</h3>
+      <p><i>ML-powered code autocomplete that beat the field at ICHack</i></p>
       <a href="https://github.com/NeoDrew/ML-autocomplete">
-        <img src="https://img.shields.io/badge/ML--autocomplete-View%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+        <img src="https://img.shields.io/badge/ML--autocomplete-View%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="ML-autocomplete repo" />
       </a>
       <br><br>
-      <a href="https://github.com/NeoDrew/ML-autocomplete">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoDrew&repo=ML-autocomplete&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=ffffff" />
-      </a>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logo=tensorflow&logoColor=white" alt="ML" />
+      <img src="https://img.shields.io/badge/NLP-00FF41?style=flat-square&logoColor=white" alt="NLP" />
     </td>
     <td align="center" width="50%">
       <h3>🚨 Hackathon Project</h3>
+      <p><i>Automated emergency call system — built under pressure</i></p>
       <a href="https://github.com/NeoDrew/911-auto-call">
-        <img src="https://img.shields.io/badge/911--auto--call-View%20on%20GitHub-FF4444?style=for-the-badge&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/911--auto--call-View%20on%20GitHub-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="911-auto-call repo" />
       </a>
       <br><br>
-      <a href="https://github.com/NeoDrew/911-auto-call">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeoDrew&repo=911-auto-call&hide_border=true&bg_color=0D1117&title_color=FF4444&icon_color=FF4444&text_color=ffffff" />
-      </a>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+      <img src="https://img.shields.io/badge/Automation-FF4444?style=flat-square&logo=robotframework&logoColor=white" alt="Automation" />
+      <img src="https://img.shields.io/badge/Emergency%20Tech-222222?style=flat-square&logoColor=red" alt="Emergency Tech" />
     </td>
   </tr>
 </table>
