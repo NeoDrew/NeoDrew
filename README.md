@@ -23,7 +23,7 @@
 
 ---
 
-## About
+## ╠══ About
 
 🧑🏻‍🎓 Final year **Computer Science** student @ University of Manchester
 💼 Actively seeking new opportunities
@@ -33,7 +33,7 @@
 
 ---
 
-## Experience
+<h2 align="right">Experience ══╣</h2>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 ---
 
-## Languages
+## ╠══ Languages
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 </div>
 
-## Tools
+<h2 align="right">Tools ══╣</h2>
 
 <div align="center">
 
@@ -71,13 +71,11 @@
 
 ---
 
-## Stats
+## ╠══ Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeoDrew&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoDrew&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff)
+![Trophies](https://github-profile-trophy.vercel.app/?username=NeoDrew&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NeoDrew&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
@@ -85,7 +83,7 @@
 
 ---
 
-## Featured Projects
+<h2 align="right">Featured Projects ══╣</h2>
 
 <div align="center">
 
