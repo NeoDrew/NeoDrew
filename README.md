@@ -46,24 +46,25 @@
 
 ---
 
-# ╠══ Languages
+# ╠══ Stack
 
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/NeoDrew/tuneInLocal)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/NeoDrew/AIHireMVP.UI)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/NeoDrew/Molly)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/NeoDrew/mandelBrot)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/NeoDrew/progLangAndPara)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/NeoDrew/AIHireMVP.UI)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/NeoDrew/Neo)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/NeoDrew/DBMS)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/NeoDrew/ML-stockprediction)
 
-</div>
-
-<h1 align="right">Tools ══╣</h1>
-
-<div align="center">
-
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NeoDrew/DBMS)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=white)](https://github.com/NeoDrew/AIHireMVP.UI)
 [![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/NeoDrew/dyad)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/NeoDrew/ML-autocomplete)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/NeoDrew/DBMS)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/NeoDrew/AIHireMvp)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/NeoDrew/COMP34111-AI-Games-Hex)
 [![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/NeoDrew/tuneInLocal)
 
@@ -74,8 +75,6 @@
 # ╠══ Stats
 
 <div align="center">
-
-![Contribution Graph](https://ghchart.ssh.surf/00FF41/NeoDrew)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=NeoDrew&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
 
