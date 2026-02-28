@@ -9,11 +9,11 @@
 ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Software+Engineer+%F0%9F%92%BB;CS+%40+University+of+Manchester+%F0%9F%8E%93;Builder+of+cool+things+%F0%9F%9A%80;Visit+me+at+drew.cash+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Software+Engineer;CS+%40+University+of+Manchester;Building+cool+things;drew.cash" alt="Typing SVG" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20drew.cash-000000?style=for-the-badge&labelColor=111111)](https://drew.cash)
+[![Website](https://img.shields.io/badge/drew.cash-000000?style=for-the-badge&labelColor=111111)](https://drew.cash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrobertsonamr/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeoDrew)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NeoDrewX)
@@ -25,11 +25,11 @@
 
 # ╠══ About
 
-🧑🏻‍🎓 Final year **Computer Science** student @ University of Manchester
-💼 Actively seeking new opportunities
-🔭 Currently working on something secret...
-🚀 Next projects: **ML-StockPrediction** · **Neo** *(compiled lang)* · **Dyad** · **AI Hiring Platform**
-🌐 Personal site → **[drew.cash](https://drew.cash)**
+Final year **Computer Science** student at the University of Manchester, actively seeking new opportunities.
+
+Currently working on something secret. Next up: **ML-StockPrediction** · **Neo** *(compiled lang)* · **Dyad** · **AI Hiring Platform**
+
+**[drew.cash](https://drew.cash)**
 
 ---
 
@@ -96,26 +96,25 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🏆 ICHack — 1st Place Winner</h3>
-      <p><i>ML-powered code autocomplete that beat the field at ICHack</i></p>
-      <a href="https://github.com/NeoDrew/ML-autocomplete">
-        <img src="https://img.shields.io/badge/ML--autocomplete-View%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="ML-autocomplete repo" />
+      <h3>ICHack — 1st Place</h3>
+      <p><i>Automated emergency call system that won ICHack</i></p>
+      <a href="https://github.com/NeoDrew/911-auto-call">
+        <img src="https://img.shields.io/badge/911--auto--call-View%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="911-auto-call repo" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logo=tensorflow&logoColor=white" alt="ML" />
-      <img src="https://img.shields.io/badge/NLP-00FF41?style=flat-square&logoColor=white" alt="NLP" />
+      <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square&logoColor=white" alt="Automation" />
     </td>
     <td align="center" width="50%">
-      <h3>🚨 Hackathon Project</h3>
-      <p><i>Automated emergency call system — built under pressure</i></p>
-      <a href="https://github.com/NeoDrew/911-auto-call">
-        <img src="https://img.shields.io/badge/911--auto--call-View%20on%20GitHub-FF4444?style=for-the-badge&logo=github&logoColor=white" alt="911-auto-call repo" />
+      <h3>chromeflow</h3>
+      <p><i>MCP server and Chrome extension letting Claude automate browser-based setup tasks</i></p>
+      <a href="https://github.com/NeoDrew/chromeflow">
+        <img src="https://img.shields.io/badge/chromeflow-View%20on%20GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="chromeflow repo" />
       </a>
       <br><br>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/Automation-FF4444?style=flat-square&logo=robotframework&logoColor=white" alt="Automation" />
-      <img src="https://img.shields.io/badge/Emergency%20Tech-222222?style=flat-square&logoColor=red" alt="Emergency Tech" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
     </td>
   </tr>
 </table>
@@ -125,5 +124,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Built with caffeine — find me at <a href="https://drew.cash"><strong>drew.cash</strong></a></sub>
+  <sub>find me at <a href="https://drew.cash"><strong>drew.cash</strong></a></sub>
 </div>
