@@ -1,12 +1,13 @@
 <div align="center">
 
 <pre>
-██████╗ ██████╗ ███████╗██╗    ██╗
-██╔══██╗██╔══██╗██╔════╝██║    ██║
-██║  ██║██████╔╝█████╗  ██║ █╗ ██║
-██║  ██║██╔══██╗██╔══╝  ██║███╗██║
-██████╔╝██║  ██║███████╗╚███╔███╔╝
-╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚══╝╚══╝
+`7MM"""Yb.   `7MM"""Mq.  `7MM"""YMM  `7MMF'     A     `7MF'
+  MM    `Yb.   MM   `MM.   MM    `7    `MA     ,MA     ,V  
+  MM     `Mb   MM   ,M9    MM   d       VM:   ,VVM:   ,V   
+  MM      MM   MMmmdM9     MMmmMM        MM.  M' MM.  M'   
+  MM     ,MP   MM  YM.     MM   Y  ,     `MM A'  `MM A'    
+  MM    ,dP'   MM   `Mb.   MM     ,M      :MM;    :MM;     
+.JMMmmmdP'   .JMML. .JMM..JMMmmmmMMM       VF      VF      
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Software+Engineer;CS+%40+University+of+Manchester;Building+cool+things;drew.cash" alt="Typing SVG" />
