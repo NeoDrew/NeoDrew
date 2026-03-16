@@ -26,7 +26,7 @@
 
 # ╠══ About
 
-Final year **Computer Science** student at the University of Manchester, actively seeking new opportunities.
+Final year **Computer Science** student at the University of Manchester.
 
 Currently working on something secret. Next up: **ML-StockPrediction** · **Neo** *(compiled lang)* · **Dyad** · **AI Hiring Platform**
 
