@@ -21,6 +21,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 |---|---|---|---|
 | 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **1st place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
 | 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
+| 🏅 | **Great Uni Hack 2023** (Manchester, 50 teams) | **5th place** | [**Log-A-Log**](https://github.com/spudbracketspud/Log-A-Log): real time deforestation tracker; OpenCV foliage analysis over map tiles pinpoints the coordinates of logging |
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
 <p align="center">
