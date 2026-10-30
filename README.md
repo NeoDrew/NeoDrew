@@ -19,7 +19,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 | | Event | Result | Project |
 |---|---|---|---|
-| 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **2nd place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
+| 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **1st place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
 | 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
@@ -71,7 +71,7 @@ I run most of my life through it day to day.
 <td width="50%" valign="top">
 
 ### 911 Auto Call · 🥇 ICHack 2026
-Autonomous ElevenLabs voice agents that answer emergency calls the instant they come in, triage the caller and run the call from intake to dispatch, so no 999/911 call ever waits in a queue. Trained on NHS ambulance call data. Won the ElevenLabs track and placed 2nd in the JetBrains track.
+Autonomous ElevenLabs voice agents that answer emergency calls the instant they come in, triage the caller and run the call from intake to dispatch, so no 999/911 call ever waits in a queue. Trained on NHS ambulance call data. Won 1st place in both the ElevenLabs and JetBrains tracks.
 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6B35?style=flat-square)
 
