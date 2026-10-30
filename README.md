@@ -17,30 +17,47 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 ## 🏆 Hackathon wins
 
+<img align="right" width="300" src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif" alt="Pam winning a Dundie" />
+
 | | Event | Result | Project |
 |---|---|---|---|
 | 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **2nd place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
 | 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
+<br clear="right">
+
+<p align="center">
+  <img src="assets/bpuzzled-win.jpg" width="520" alt="The team after winning Bloomberg Bpuzzled" /><br>
+  <sub>Bloomberg Bpuzzled, 1st place (I'm the tall one on the left)</sub>
+</p>
+
 ---
 
 ## 🚀 Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [chromeflow](https://github.com/NeoDrew/chromeflow) · [chromeflow.run](https://chromeflow.run)
 
-### [chromeflow](https://github.com/NeoDrew/chromeflow)
+<img align="right" width="280" src="https://media.giphy.com/media/CIy7Ri74WywvK/giphy.gif" alt="Michael Scott: it's happening" />
+
 Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, cookies and 2FA intact. Clicks, fills forms, grabs API keys and writes them to `.env`, and pauses for anything that needs a human.
 
 - MCP server + Chrome extension, 30 browser tools
 - Live on the [Chrome Web Store](https://chromewebstore.google.com/detail/chromeflow/lkdchdgkbkodliefobkkhiegjdiidime) and npm
 - Shaped by 400+ hours of real agentic browser work: React Selects, shadow DOM, `isTrusted` gated forms, anti-bot clicks
 
-[chromeflow.run](https://chromeflow.run) · ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square) ![Stars](https://img.shields.io/github/stars/NeoDrew/chromeflow?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square) ![Stars](https://img.shields.io/github/stars/NeoDrew/chromeflow?style=flat-square)
 
-</td>
+<sub><i>Me watching Claude fill in its first form on its own.</i></sub>
+
+<br clear="right">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeoDrew/chromeflow/main/assets/chromeflowDemo.gif" width="760" alt="chromeflow demo: Claude Code driving real Chrome" />
+</p>
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### [telegram-claude-bot](https://github.com/NeoDrew/telegram-claude-bot)
@@ -55,8 +72,6 @@ I run most of my life through it day to day.
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 911 Auto Call · 🥇 ICHack 2026
@@ -65,6 +80,8 @@ Autonomous ElevenLabs voice agents that answer emergency calls the instant they 
 ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6B35?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [grad-job-hunt-engine](https://github.com/NeoDrew/grad-job-hunt-engine)
@@ -73,22 +90,26 @@ A discovery first job search system: sweeps ATS feeds, LinkedIn and Adzuna twice
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Agents](https://img.shields.io/badge/LLM%20agents-111111?style=flat-square)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Vette Build Lab](https://vette-customisation.vercel.app)
-A Need for Speed: Carbon style configurator for the C6 Corvette. All five C6 variants, 215 real parts with strict per engine fitment, bundled kits and a build advisor.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
 <td width="50%" valign="top">
 
 ### [hagrids-ml](https://github.com/NeoDrew/hagrids-ml)
 Face detection and recognition over video: RetinaFace detection plus Facenet512 embeddings label every Harry Potter character in every frame.
 
+<img src="https://raw.githubusercontent.com/NeoDrew/hagrids-ml/main/clip.png" width="100%" alt="hagrids-ml labelled frame" />
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [Vette Build Lab](https://vette-customisation.vercel.app)
+A Need for Speed: Carbon style configurator for my own C6 Corvette. All five C6 variants, 215 real parts with strict per engine fitment, bundled kits, live power/handling stats and a build advisor.
+
+<a href="https://vette-customisation.vercel.app"><img src="assets/vette-build-lab.jpg" width="100%" alt="Vette Build Lab screenshot" /></a>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td>
 </tr>
