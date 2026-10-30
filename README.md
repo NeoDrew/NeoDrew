@@ -35,7 +35,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 ### [chromeflow](https://github.com/NeoDrew/chromeflow) · [chromeflow.run](https://chromeflow.run)
 
-<img align="right" width="280" src="assets/its-happening.gif" alt="Michael Scott: it's happening" />
+<img align="right" width="260" src="assets/lets-do-this.gif" alt="Dwight cracking his knuckles, ready to work" />
 
 Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, cookies and 2FA intact. Clicks, fills forms, grabs API keys and writes them to `.env`, and pauses for anything that needs a human.
 
@@ -44,8 +44,6 @@ Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, coo
 - Shaped by 400+ hours of real agentic browser work: React Selects, shadow DOM, `isTrusted` gated forms, anti-bot clicks
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square) ![Stars](https://img.shields.io/github/stars/NeoDrew/chromeflow?style=flat-square)
-
-<sub><i>Me watching Claude fill in its first form on its own.</i></sub>
 
 <br clear="right">
 
