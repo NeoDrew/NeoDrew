@@ -1,129 +1,143 @@
 <div align="center">
 
-<pre>
-`7MM"""Yb.   `7MM"""Mq.  `7MM"""YMM  `7MMF'     A     `7MF'
-  MM    `Yb.   MM   `MM.   MM    `7    `MA     ,MA     ,V  
-  MM     `Mb   MM   ,M9    MM   d       VM:   ,VVM:   ,V   
-  MM      MM   MMmmdM9     MMmmMM        MM.  M' MM.  M'   
-  MM     ,MP   MM  YM.     MM   Y  ,     `MM A'  `MM A'    
-  MM    ,dP'   MM   `Mb.   MM     ,M      :MM;    :MM;     
-.JMMmmmdP'   .JMML. .JMM..JMMmmmmMMM       VF      VF      
-</pre>
+# Drew Robertson
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=560&lines=Software+Engineer;CS+%40+University+of+Manchester;Building+cool+things;drew.cash" alt="Typing SVG" />
+**Software Engineer at The Trade Desk, London** · CS @ University of Manchester
 
-<br>
+I build agent tooling: things that let AI coding agents do real work in the real world.
 
-[![Website](https://img.shields.io/badge/drew.cash-000000?style=for-the-badge&labelColor=111111)](https://drew.cash)
+[![drew.cash](https://img.shields.io/badge/drew.cash-111111?style=for-the-badge)](https://drew.cash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewrobertsonamr/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeoDrew)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NeoDrewX)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/256852420439572480)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NeoDrewX)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AndrewMaxwellRobertson@gmail.com)
 
 </div>
 
 ---
 
-# ╠══ About
+## 🏆 Hackathon wins
 
-Final year **Computer Science** student at the University of Manchester.
-
-Currently working on something secret. Next up: **ML-StockPrediction** · **Neo** *(compiled lang)* · **Dyad** · **AI Hiring Platform**
-
-**[drew.cash](https://drew.cash)**
-
----
-
-<h1 align="right">Experience ══╣</h1>
-
-<div align="center">
-
-[![TheTradeDesk](https://img.shields.io/badge/The%20Trade%20Desk-0070F3?style=for-the-badge&logoColor=white)](https://www.thetradedesk.com)
-[![Rothschild](https://img.shields.io/badge/Rothschild%20%26%20Co-8B0000?style=for-the-badge&logoColor=white)](https://www.rothschildandco.com)
-[![Record](https://img.shields.io/badge/Record%20Asset%20Management-003366?style=for-the-badge&logoColor=white)](https://www.recordfg.com)
-[![DataAnnotation](https://img.shields.io/badge/DataAnnotation-00897B?style=for-the-badge&logoColor=white)](https://www.dataannotation.tech)
-
-</div>
+| | Event | Result | Project |
+|---|---|---|---|
+| 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **2nd place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
+| 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
+| 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
 ---
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h1>╠══ Tools</h1>
-      <p>
-        <a href="https://github.com/NeoDrew/AIHireMVP.UI"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=white" alt="React" /></a>
-        <a href="https://github.com/NeoDrew/dyad"><img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /></a>
-        <a href="https://github.com/NeoDrew/ML-autocomplete"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
-        <a href="https://github.com/NeoDrew/DBMS"><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-        <a href="https://github.com/NeoDrew/AIHireMvp"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
-        <a href="https://github.com/NeoDrew/COMP34111-AI-Games-Hex"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-        <a href="https://about.gitlab.com/"><img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
-        <a href="https://github.com/NeoDrew/tuneInLocal"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
-      </p>
-    </td>
-    <td valign="top" width="50%" align="right">
-      <h1>Languages ══╣</h1>
-      <p>
-        <a href="https://github.com/NeoDrew/tuneInLocal"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" /></a>
-        <a href="https://github.com/NeoDrew/AIHireMVP.UI"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-        <a href="https://github.com/NeoDrew/Molly"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-        <a href="https://github.com/NeoDrew/mandelBrot"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
-        <a href="https://github.com/NeoDrew/Neo"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-        <a href="https://github.com/NeoDrew/DBMS"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
-        <a href="https://github.com/NeoDrew/tuneInLocal"><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-        <a href="https://github.com/NeoDrew/ML-stockprediction"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-# ╠══ Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NeoDrew&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888)
-
-</div>
-
----
-
-<h1 align="right">Featured Projects ══╣</h1>
-
-<div align="center">
+## 🚀 Featured projects
 
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>ICHack — 1st Place</h3>
-      <p><i>Automated emergency call system that won ICHack</i></p>
-      <a href="https://github.com/NeoDrew/911-auto-call">
-        <img src="https://img.shields.io/badge/911--auto--call-View%20on%20GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="911-auto-call repo" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/Automation-FF6B35?style=flat-square&logoColor=white" alt="Automation" />
-    </td>
-    <td align="center" width="50%">
-      <h3>chromeflow</h3>
-      <p><i>MCP server and Chrome extension letting Claude automate browser-based setup tasks</i></p>
-      <a href="https://github.com/NeoDrew/chromeflow">
-        <img src="https://img.shields.io/badge/chromeflow-View%20on%20GitHub-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="chromeflow repo" />
-      </a>
-      <br><br>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [chromeflow](https://github.com/NeoDrew/chromeflow)
+Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, cookies and 2FA intact. Clicks, fills forms, grabs API keys and writes them to `.env`, and pauses for anything that needs a human.
+
+- MCP server + Chrome extension, 30 browser tools
+- Live on the [Chrome Web Store](https://chromewebstore.google.com/detail/chromeflow/lkdchdgkbkodliefobkkhiegjdiidime) and npm
+- Shaped by 400+ hours of real agentic browser work: React Selects, shadow DOM, `isTrusted` gated forms, anti-bot clicks
+
+[chromeflow.run](https://chromeflow.run) · ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square) ![Stars](https://img.shields.io/github/stars/NeoDrew/chromeflow?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [telegram-claude-bot](https://github.com/NeoDrew/telegram-claude-bot)
+A phone to Mac bridge for Claude Code. Message a Telegram bot and it relays into a **persistent Claude Code session** on your Mac, streaming the reply back live.
+
+- Every chat is its own room with its own project directory, session, model and effort
+- Cron style scheduled prompts, screenshots, per room user approval
+- Parks itself on rate limits and resumes automatically when they clear
+
+I run most of my life through it day to day.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 911 Auto Call · 🥇 ICHack 2026
+Autonomous ElevenLabs voice agents that answer emergency calls the instant they come in, triage the caller and run the call from intake to dispatch, so no 999/911 call ever waits in a queue. Trained on NHS ambulance call data. Won the ElevenLabs track and placed 2nd in the JetBrains track.
+
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Voice AI](https://img.shields.io/badge/Voice%20AI-FF6B35?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [grad-job-hunt-engine](https://github.com/NeoDrew/grad-job-hunt-engine)
+A discovery first job search system: sweeps ATS feeds, LinkedIn and Adzuna twice a day, scores every role against the candidate's CV, tracks the funnel, and drives ATS applications through chromeflow. **Got a real candidate placed.**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Agents](https://img.shields.io/badge/LLM%20agents-111111?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Vette Build Lab](https://vette-customisation.vercel.app)
+A Need for Speed: Carbon style configurator for the C6 Corvette. All five C6 variants, 215 real parts with strict per engine fitment, bundled kits and a build advisor.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [hagrids-ml](https://github.com/NeoDrew/hagrids-ml)
+Face detection and recognition over video: RetinaFace detection plus Facenet512 embeddings label every Harry Potter character in every frame.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+</td>
+</tr>
 </table>
 
-</div>
+<details>
+<summary><b>Older projects</b></summary>
+<br>
+
+- [**Neo**](https://github.com/NeoDrew/Neo): a toy compiled programming language in C++
+- [**dyad**](https://github.com/NeoDrew/dyad): stock viewing platform on Java Spring Boot
+- [**ML-autocomplete**](https://github.com/NeoDrew/ML-autocomplete): next token autocomplete model
+- [**AIHireMvp**](https://github.com/NeoDrew/AIHireMvp) / [**UI**](https://github.com/NeoDrew/AIHireMVP.UI): agentic candidate pipeline
+- [**DBMS**](https://github.com/NeoDrew/DBMS): a small relational database management system
+- [**mandelBrot**](https://github.com/NeoDrew/mandelBrot): JavaFX Mandelbrot set explorer
+
+</details>
 
 ---
 
+## 💼 Experience
+
+| | |
+|---|---|
+| **The Trade Desk** · London | Software Engineer (2026 to now); SWE intern in 2025, GraphQL schema analysis service in .NET, shipped via Kubernetes and GitLab CI, return offer |
+| **Record Asset Management** · London | Software Development Intern (2024 to 2025): internal trade comms system, 2850x cache speedup; C#, React, Azure, Terraform |
+| **DataAnnotation** · remote | AI Engineer: top 10% performer across Java, C#, Python, F# |
+| **Rothschild & Co** · London | Equity Research Insight (2024) |
+
+---
+
+## 🧰 Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square)
+
 <div align="center">
-  <sub>find me at <a href="https://drew.cash"><strong>drew.cash</strong></a></sub>
+<br>
+<sub>more at <a href="https://drew.cash"><b>drew.cash</b></a></sub>
 </div>
