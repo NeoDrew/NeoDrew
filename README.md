@@ -17,19 +17,15 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 ## 🏆 Hackathon wins
 
-<img align="right" width="300" src="https://media.giphy.com/media/hjvinhl1pUrb1gdzlV/giphy.gif" alt="Pam winning a Dundie" />
-
 | | Event | Result | Project |
 |---|---|---|---|
 | 🥇 | **ICHack 2026** (Imperial, 700+ hackers) | **1st place, ElevenLabs track** · **2nd place, JetBrains track** | **911 Auto Call**: AI voice agents that answer 999/911 calls and run intake through to dispatch |
 | 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
-<br clear="right">
-
 <p align="center">
   <img src="assets/bpuzzled-win.jpg" width="520" alt="The team after winning Bloomberg Bpuzzled" /><br>
-  <sub>Bloomberg Bpuzzled, 1st place (I'm the tall one on the left)</sub>
+  <sub>Bloomberg Bpuzzled, 1st place</sub>
 </p>
 
 ---
