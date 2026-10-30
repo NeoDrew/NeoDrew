@@ -25,7 +25,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
 
 <p align="center">
-  <img src="assets/bpuzzled-win.jpg" width="520" alt="The team after winning Bloomberg Bpuzzled" /><br>
+  <img src="assets/bpuzzled-win.png" width="520" alt="The team after winning Bloomberg Bpuzzled" /><br>
   <sub>Bloomberg Bpuzzled, 1st place</sub>
 </p>
 
@@ -35,7 +35,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 ### [chromeflow](https://github.com/NeoDrew/chromeflow) · [chromeflow.run](https://chromeflow.run)
 
-<img align="right" width="280" src="https://media.giphy.com/media/CIy7Ri74WywvK/giphy.gif" alt="Michael Scott: it's happening" />
+<img align="right" width="280" src="assets/its-happening.gif" alt="Michael Scott: it's happening" />
 
 Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, cookies and 2FA intact. Clicks, fills forms, grabs API keys and writes them to `.env`, and pauses for anything that needs a human.
 
@@ -50,7 +50,7 @@ Lets Claude Code and Codex CLI drive **your real Chrome**, with your logins, coo
 <br clear="right">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NeoDrew/chromeflow/main/assets/chromeflowDemo.gif" width="760" alt="chromeflow demo: Claude Code driving real Chrome" />
+  <img src="assets/chromeflow-demo.gif" width="760" alt="chromeflow demo: Claude Code driving real Chrome" />
 </p>
 
 <table>
@@ -92,7 +92,7 @@ A discovery first job search system: sweeps ATS feeds, LinkedIn and Adzuna twice
 ### [hagrids-ml](https://github.com/NeoDrew/hagrids-ml)
 Face detection and recognition over video: RetinaFace detection plus Facenet512 embeddings label every Harry Potter character in every frame.
 
-<img src="https://raw.githubusercontent.com/NeoDrew/hagrids-ml/main/clip.png" width="100%" alt="hagrids-ml labelled frame" />
+<img src="assets/hagrids-clip.png" width="100%" alt="hagrids-ml labelled frame" />
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
@@ -104,7 +104,7 @@ Face detection and recognition over video: RetinaFace detection plus Facenet512 
 ### [Vette Build Lab](https://vette-customisation.vercel.app)
 A Need for Speed: Carbon style configurator for my own C6 Corvette. All five C6 variants, 215 real parts with strict per engine fitment, bundled kits, live power/handling stats and a build advisor.
 
-<a href="https://vette-customisation.vercel.app"><img src="assets/vette-build-lab.jpg" width="100%" alt="Vette Build Lab screenshot" /></a>
+<a href="https://vette-customisation.vercel.app"><img src="assets/vette-build-lab.png" width="100%" alt="Vette Build Lab screenshot" /></a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
