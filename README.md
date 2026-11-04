@@ -2,7 +2,7 @@
 
 # Drew Robertson
 
-**Software Engineer at The Trade Desk, London** · CS @ University of Manchester
+CS @ University of Manchester
 
 I build agent tooling: things that let AI coding agents do real work in the real world.
 
