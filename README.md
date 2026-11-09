@@ -11,6 +11,11 @@ I build agent tooling: things that let AI coding agents do real work in the real
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NeoDrewX)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AndrewMaxwellRobertson@gmail.com)
 
+<br>
+
+<img src="assets/andy-burnham.jpeg" width="440" alt="Drew with Andy Burnham, Mayor of Greater Manchester" /><br>
+<sub>With Andy Burnham, Mayor of Greater Manchester (2025)</sub>
+
 </div>
 
 ---
