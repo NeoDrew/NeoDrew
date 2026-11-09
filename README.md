@@ -35,6 +35,18 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 ---
 
+## 📊 Stats
+
+<p align="center">
+  <img src="assets/stats.svg" height="172" alt="GitHub stats" />
+  <img src="assets/languages.svg" height="172" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=NeoDrew&theme=github-dark-blue&hide_border=false&border=30363d&background=0d1117&border_radius=8" alt="GitHub streak" />
+</p>
+
+---
+
 ## 🚀 Featured projects
 
 ### [chromeflow](https://github.com/NeoDrew/chromeflow) · [chromeflow.run](https://chromeflow.run)
