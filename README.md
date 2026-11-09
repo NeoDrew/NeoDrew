@@ -13,7 +13,7 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 <br>
 
-<img src="assets/andy-burnham.jpeg" width="440" alt="Drew with Andy Burnham, Mayor of Greater Manchester" /><br>
+<img src="assets/andy-burnham.png" width="320" alt="Drew with Andy Burnham, Mayor of Greater Manchester" /><br>
 <sub>With Andy Burnham</sub>
 
 </div>
