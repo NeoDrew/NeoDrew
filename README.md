@@ -13,8 +13,12 @@ I build agent tooling: things that let AI coding agents do real work in the real
 
 <br>
 
-<img src="assets/andy-burnham.png" width="320" alt="Drew with Andy Burnham, Mayor of Greater Manchester" /><br>
-<sub>With Andy Burnham</sub>
+<table>
+<tr>
+<td align="center"><img src="assets/andy-burnham.png" width="300" alt="Drew with Andy Burnham, Mayor of Greater Manchester" /><br><sub>With Andy Burnham</sub></td>
+<td align="center"><img src="assets/bloomberg-win.png" width="300" alt="The team after winning Bloomberg Bpuzzled" /><br><sub>Bloomberg Bpuzzled, 1st place</sub></td>
+</tr>
+</table>
 
 </div>
 
@@ -28,11 +32,6 @@ I build agent tooling: things that let AI coding agents do real work in the real
 | 🥇 | **Bloomberg Bpuzzled 2025** (110 competitors) | **1st place** | Bloomberg's puzzle competition |
 | 🏅 | **Great Uni Hack 2023** (Manchester, 50 teams) | **5th place** | [**Log-A-Log**](https://github.com/spudbracketspud/Log-A-Log): real time deforestation tracker; OpenCV foliage analysis over map tiles pinpoints the coordinates of logging |
 | 🛠️ | **HackUPC 2026** (Barcelona) | Built for the Smadex sponsor challenge | [**Smadex Cooking**](https://github.com/NeoDrew/hackUPC): ad creative intelligence cockpit; fatigue classifier at 0.93 ROC AUC vs the dataset's 0.87 baseline |
-
-<p align="center">
-  <img src="assets/bpuzzled-win.png" width="520" alt="The team after winning Bloomberg Bpuzzled" /><br>
-  <sub>Bloomberg Bpuzzled, 1st place</sub>
-</p>
 
 ---
 
