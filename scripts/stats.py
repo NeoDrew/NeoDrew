@@ -44,7 +44,12 @@ def fetch():
         cc = gql(year_q, u=USER, f=cursor.isoformat(), t=end.isoformat())["user"]["contributionsCollection"]
         all_time += cc["contributionCalendar"]["totalContributions"]
         cursor = end
-    last_year = gql(year_q, u=USER, f=(now - dt.timedelta(days=365)).isoformat(), t=now.isoformat())
+    last_year = gql(
+        """query($u:String!,$f:DateTime!,$t:DateTime!){user(login:$u){contributionsCollection(from:$f,to:$t){
+          contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}""",
+        u=USER, f=(now - dt.timedelta(days=365)).isoformat(), t=now.isoformat(),
+    )
+    days = [d["contributionCount"] for w in last_year["user"]["contributionsCollection"]["contributionCalendar"]["weeks"] for d in w["contributionDays"]]
     langs = {}
     for repo in base["repositories"]["nodes"]:
         for e in repo["languages"]["edges"]:
@@ -56,7 +61,8 @@ def fetch():
     return {
         "last_year": last_year["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"],
         "all_time": all_time,
-        "prs": base["pullRequests"]["totalCount"],
+        "active_days": sum(1 for c in days if c),
+        "best_day": max(days, default=0),
         "repos": base["repositories"]["totalCount"],
         "langs": sorted(langs.items(), key=lambda kv: -kv[1][0])[:6],
     }
@@ -74,8 +80,8 @@ def card(title, inner, height):
 def stats_svg(d):
     rows = [
         ("Contributions (last 12 months)", d["last_year"]),
-        ("Contributions (all time)", d["all_time"]),
-        ("Pull requests", d["prs"]),
+        ("Active days (last 12 months)", d["active_days"]),
+        ("Most contributions in a day", d["best_day"]),
         ("Public repos", d["repos"]),
     ]
     inner = "".join(
